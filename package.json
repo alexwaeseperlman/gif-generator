@@ -1,0 +1,15 @@
+{
+  "name": "gif-keyboard",
+  "version": "0.0.0",
+  "description": "A simple command line tool to put text on top of gifs",
+  "main": "index.js",
+  "author": "Alex Waese-Perlman",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "tmp": "^0.2.1",
+    "word-wrap": "^1.2.3",
+    "yargs": "^17.3.0"
+  }
+}
